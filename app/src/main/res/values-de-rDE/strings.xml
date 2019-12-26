@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mein Profil Design UI</string>
+    <string name="add">Zur Gruppe Hinzufügen</string>
+    <string name="comments">Kommentare Anzeigen</string>
+    <string name="follow">Folge Mir</string>
+    <string name="setting">Rahmen</string>
+</resources>

@@ -112,7 +112,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingLeft="20dp"
-                android:text="Add to group"/>
+                android:text="@string/add"/>
         </LinearLayout>
 
         <LinearLayout
@@ -131,7 +131,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingLeft="20dp"
-                android:text="Show all comments"/>
+                android:text="@string/comments"/>
         </LinearLayout>
 
     </LinearLayout>
@@ -142,7 +142,7 @@
         android:layout_height="50dp"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="10dp"
-        android:text="Follow Me"
+        android:text="@string/follow"
         android:background="@drawable/custom_button"
         android:textColor="#fff"
         android:clickable="true"

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UI Desain Profil Saya</string>
+    <string name="add">Tambah Ke Grub</string>
+    <string name="comments">Tampilkan Komentar</string>
+    <string name="follow">Ikuti Saya</string>
+    <string name="setting">Pengaturan</string>
+</resources>
